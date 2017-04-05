@@ -8,5 +8,5 @@ def Dowork(x,y,z):
     j=sqrt(k)
   if x==4 or y>5:
     j=x*y+10
-j=j%3
-return k,j
+  j=j%3
+  return k,j
