@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 import unittest
-from cxytest import*
+from swtest import*
 class Test001(unittest.TestCase):
   def test_cxy1(self):
     self.assertEquals(Dowork(4,6,7),(23,1))
