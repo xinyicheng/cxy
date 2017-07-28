@@ -1,4 +1,3 @@
-$DEFAULT_CONTENT
 # -*- coding: utf-8 -*-
 import unittest
 from lookup_phone import Phone_msg  
